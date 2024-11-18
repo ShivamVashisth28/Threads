@@ -16,6 +16,7 @@ Feature List:
 -   🔊 Notification sounds
 
 
+
 ### Setup .env file
 
 ```js
